@@ -1,0 +1,108 @@
+2016-08-28 20:10:56 - Date state updated to 2016-08-28T20:10:56
+2016-08-28 20:11:01 - Weather_Humidity state updated to 
+
+2016-08-28 20:11:01 - Weather_Temperature state updated to 
+
+2016-08-28 20:11:12 - Light_GF_Living_Table state updated to ON
+2016-08-28 20:11:12 - Light_GF_Corridor_Ceiling state updated to OFF
+2016-08-28 20:11:12 - Light_GF_Kitchen_Ceiling state updated to OFF
+2016-08-28 20:11:12 - Light_GF_Kitchen_Table state updated to OFF
+2016-08-28 20:11:12 - Light_GF_Corridor_Wardrobe state updated to OFF
+2016-08-28 20:11:12 - Light_GF_Toilet_Ceiling state updated to OFF
+2016-08-28 20:11:12 - Light_GF_Toilet_Mirror state updated to OFF
+2016-08-28 20:11:12 - Light_FF_Bath_Ceiling state updated to OFF
+2016-08-28 20:11:12 - Light_FF_Bath_Mirror state updated to OFF
+2016-08-28 20:11:13 - Light_FF_Corridor_Ceiling state updated to OFF
+2016-08-28 20:11:13 - Light_FF_Office_Ceiling state updated to OFF
+2016-08-28 20:11:13 - Light_FF_Child_Ceiling state updated to ON
+2016-08-28 20:11:13 - Light_FF_Bed_Ceiling state updated to OFF
+2016-08-28 20:11:13 - Light_C_Corridor_Ceiling state updated to OFF
+2016-08-28 20:11:13 - Light_C_Staircase state updated to OFF
+2016-08-28 20:11:13 - Light_C_Washing_Ceiling state updated to OFF
+2016-08-28 20:11:13 - Light_C_Workshop state updated to ON
+2016-08-28 20:11:13 - Light_Outdoor_Garage state updated to OFF
+2016-08-28 20:11:13 - Light_Outdoor_Terrace state updated to ON
+2016-08-28 20:11:13 - Light_Outdoor_Frontdoor state updated to OFF
+2016-08-28 20:11:15 - Heating_GF_Corridor state updated to OFF
+2016-08-28 20:11:15 - Heating_GF_Toilet state updated to OFF
+2016-08-28 20:11:15 - Heating_GF_Living state updated to OFF
+2016-08-28 20:11:15 - Heating_GF_Kitchen state updated to OFF
+2016-08-28 20:11:16 - Heating_FF_Bath state updated to OFF
+2016-08-28 20:11:16 - Heating_FF_Office state updated to OFF
+2016-08-28 20:11:16 - Heating_FF_Child state updated to OFF
+2016-08-28 20:11:16 - Heating_FF_Bed state updated to OFF
+2016-08-28 20:11:16 - Temperature_Setpoint state updated to 22
+2016-08-28 20:11:19 - Window_GF_Frontdoor state updated to CLOSED
+2016-08-28 20:11:19 - Window_GF_Kitchen state updated to CLOSED
+2016-08-28 20:11:19 - Window_GF_Living state updated to OPEN
+2016-08-28 20:11:19 - Window_GF_Toilet state updated to CLOSED
+2016-08-28 20:11:19 - Window_FF_Bath state updated to OPEN
+2016-08-28 20:11:19 - Window_FF_Bed state updated to CLOSED
+2016-08-28 20:11:19 - Window_FF_Office_Window state updated to CLOSED
+2016-08-28 20:11:19 - Window_FF_Office_Door state updated to OPEN
+2016-08-28 20:11:19 - Garage_Door state updated to CLOSED
+2016-08-28 20:11:20 - DemoLocation state updated to 52.5200066,13.4049540
+2016-08-28 20:11:21 - Temperature_GF_Corridor state updated to 17.60000000
+2016-08-28 20:11:21 - Temperature_GF_Toilet state updated to 19.40000000
+2016-08-28 20:11:22 - Temperature_GF_Living state updated to 20.10000000
+2016-08-28 20:11:22 - Temperature_GF_Kitchen state updated to 18.50000000
+2016-08-28 20:11:22 - Temperature_FF_Bath state updated to 19.10000000
+2016-08-28 20:11:22 - Temperature_FF_Office state updated to 20.70000000
+2016-08-28 20:11:22 - Temperature_FF_Child state updated to 22.50000000
+2016-08-28 20:11:22 - Temperature_FF_Bed state updated to 18.70000000
+2016-08-28 20:12:02 - Weather_Humidity state updated to 
+
+2016-08-28 20:12:02 - Weather_Temperature state updated to 
+
+2016-08-28 20:13:02 - Weather_Humidity state updated to 
+
+2016-08-28 20:13:07 - Weather_Temperature state updated to 
+
+2016-08-28 20:14:07 - Weather_Humidity state updated to 
+
+2016-08-28 20:14:09 - Weather_Temperature state updated to 
+
+2016-08-28 20:15:00 - Temperature_GF_Corridor state updated to 22.40000000
+2016-08-28 20:15:00 - Temperature_GF_Toilet state updated to 20.00000000
+2016-08-28 20:15:00 - Temperature_GF_Living state updated to 22.00000000
+2016-08-28 20:15:00 - Temperature_GF_Kitchen state updated to 19.70000000
+2016-08-28 20:15:00 - Temperature_FF_Bath state updated to 20.30000000
+2016-08-28 20:15:00 - Temperature_FF_Office state updated to 17.90000000
+2016-08-28 20:15:00 - Temperature_FF_Child state updated to 18.90000000
+2016-08-28 20:15:00 - Temperature_FF_Bed state updated to 21.70000000
+2016-08-28 20:15:08 - Weather_Humidity state updated to 
+
+2016-08-28 20:15:09 - Weather_Temperature state updated to 
+
+2016-08-28 20:16:09 - Weather_Humidity state updated to 
+
+2016-08-28 20:16:09 - Weather_Temperature state updated to 
+
+2016-08-28 20:17:10 - Weather_Humidity state updated to 
+
+2016-08-28 20:17:10 - Weather_Temperature state updated to 
+
+2016-08-28 20:18:10 - Weather_Humidity state updated to 
+
+2016-08-28 20:18:10 - Weather_Temperature state updated to 
+
+2016-08-28 20:19:11 - Weather_Humidity state updated to 
+
+2016-08-28 20:19:11 - Weather_Temperature state updated to 
+
+2016-08-28 20:20:00 - Temperature_GF_Corridor state updated to 17.60000000
+2016-08-28 20:20:00 - Temperature_GF_Toilet state updated to 20.40000000
+2016-08-28 20:20:00 - Temperature_GF_Living state updated to 19.30000000
+2016-08-28 20:20:00 - Temperature_GF_Kitchen state updated to 20.10000000
+2016-08-28 20:20:00 - Temperature_FF_Bath state updated to 22.20000000
+2016-08-28 20:20:00 - Temperature_FF_Office state updated to 18.70000000
+2016-08-28 20:20:00 - Temperature_FF_Child state updated to 17.80000000
+2016-08-28 20:20:00 - Temperature_FF_Bed state updated to 18.40000000
+2016-08-28 20:20:11 - Weather_Humidity state updated to 
+
+2016-08-28 20:20:11 - Weather_Temperature state updated to 
+
+2016-08-28 20:21:11 - Weather_Humidity state updated to 
+
+2016-08-28 20:21:12 - Weather_Temperature state updated to 
+
